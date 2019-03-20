@@ -1,4 +1,4 @@
-alert();
+
 
 $(".sexo").on("change", function() {
 
