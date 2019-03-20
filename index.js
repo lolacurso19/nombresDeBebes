@@ -22,6 +22,11 @@ console.log(req.body);
 var sexo=(req.body.sexo);
 var apellidoPaterno=(req.body.aPadre);
 var apellidoMaterno=(req.body.aMadre);
+// declaro 2 arrays de nombres
+var nombresNene=["Andres","Julian","Pelayo", "Martin","Rodrigo","Sergio", "Héctor"];
+var nombresNena=["Jimena","Zahira","Sandra", "Laura","Nerea","Anjana", "Maria"];
+
+
 
 });
 
